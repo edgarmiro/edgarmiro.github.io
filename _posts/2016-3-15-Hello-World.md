@@ -1,0 +1,20 @@
+---
+layout: post
+title: Librerías Android imprescindibles
+---
+### Butter knife
+Anota los campos de la clase con @Bind para que esta fantástica librería encuentre la vista con el ID indicado y te realice el casting correspondiente
+
+[Butter knife](http://jakewharton.github.io/butterknife)
+
+
+### ActiveAndroid
+Un sencillo ORM para Android donde, mediante anotaciones, podremos montar las clases necesarias para hacer operaciones CRUD contra nuestra base de datos.
+
+[ActiveAndroid](http://www.activeandroid.com)
+
+
+### Picasso
+Esta potente librería nos facilita la carga de imágenes en nuestra aplicación tanto remotas como locales.
+
+[Picasso](http://square.github.io/picasso)
