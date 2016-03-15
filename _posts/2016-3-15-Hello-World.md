@@ -2,8 +2,10 @@
 layout: post
 title: Librerías Android imprescindibles
 ---
+Ahí va un a serie de librerías que deberías concocer para agilizar tus desarrollos en Android.
+
 ### Butter knife
-Anota los campos de la clase con @Bind para que esta fantástica librería encuentre la vista con el ID indicado y te realice el casting correspondiente
+Anota los campos de la clase con @Bind para que esta fantástica librería encuentre la vista con el ID indicado y te realice el casting correspondiente.
 
 [Butter knife](http://jakewharton.github.io/butterknife)
 
