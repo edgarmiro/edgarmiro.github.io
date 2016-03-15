@@ -21,5 +21,7 @@ Un sencillo ORM para Android donde, mediante anotaciones, podremos montar las cl
 
 ### Picasso
 Esta potente librería nos facilita la carga de imágenes en nuestra aplicación tanto remotas como locales.
-
+```
+compile 'com.squareup.picasso:picasso:2.5.2'
+```
 [Picasso](http://square.github.io/picasso)
