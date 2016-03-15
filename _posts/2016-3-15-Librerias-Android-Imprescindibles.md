@@ -16,11 +16,20 @@ compile 'com.jakewharton:butterknife:7.0.1'
 ### ActiveAndroid
 Un sencillo ORM para Android donde, mediante anotaciones, podremos montar las clases necesarias para hacer operaciones CRUD contra nuestra base de datos.
 
+```
+repositories {
+    mavenCentral()
+    maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+}
+
+compile 'com.michaelpardo:activeandroid:3.1.0-SNAPSHOT'
+```
 [ActiveAndroid](http://www.activeandroid.com)
 
 
 ### Picasso
 Esta potente librería nos facilita la carga de imágenes en nuestra aplicación tanto remotas como locales.
+
 ```
 compile 'com.squareup.picasso:picasso:2.5.2'
 ```
