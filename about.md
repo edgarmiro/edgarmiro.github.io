@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre mí
+permalink: /sobre-mi/
 ---
 
-Some information about you!
+Desarrollador de aplicaciones móviles actualmente trabajando en Diagram Software.
 
-### More Information
+### Objetivo
 
-A place to include any other types of information that you'd like to include about yourself.
+El objetivo de este blog no es otro que seguir aprendiendo y compartir mis experiencias del día a día en el desarrollo de software.
 
-### Contact me
+### Contáctame
 
-[email@domain.com](mailto:email@domain.com)
+[@edgarmiro](https://twitter.com/edgarmiro)
