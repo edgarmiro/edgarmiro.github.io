@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre mí
-permalink: /sobre-mi/
+permalink: /about/
 ---
 
 Desarrollador de aplicaciones móviles actualmente trabajando en Diagram Software.
