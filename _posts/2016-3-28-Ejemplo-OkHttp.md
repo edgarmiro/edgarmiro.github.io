@@ -4,4 +4,4 @@ title: OkHttp
 ---
 Aquí va un pequeño ejemplo de como utilizar la librería OkHttp
 
-[https://github.com/edgarmiro/ejemplo-okhttp.git](https://github.com/edgarmiro/ejemplo-okhttp.git)
+[Show me the code](https://github.com/edgarmiro/ejemplo-okhttp.git)
